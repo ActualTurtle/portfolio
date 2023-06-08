@@ -7,6 +7,14 @@ Try it for yourself at -> https://actualturtle.github.io/destiny2shuffler/
 ## Screenshots
 ### ***\*wow much color!\****
 
+![Home Page](Images/home.png)
+
+![Oauth2](Images/oath.png)
+
+![Dashboard](Images/dashboard.png)
+
+
+
 ## Notes
 ### ***\*hey listen!\****
 
