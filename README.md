@@ -3,6 +3,6 @@ A one stop shop for the notable projects of ActualTurtle AKA Drew Tuttle (compil
 
 ## Quick Links
 - [Destiny 2 Shuffler (inventory randomizer)](Destiny2Shuffler/)
-- [The Matter Gun (playable game concept demo)](BabaIsYou_recreation/)
+- [The Matter Gun (playable game concept demo)](MatterGun_game/)
 - [BigBlue is You (Baba is You recreation)](BabaIsYou_recreation/)
 
