@@ -1,5 +1,5 @@
 # portfolio
-A one stop shop for the notable projects of ActualTurtle AKA Drew Tuttle (compilation work in progress)
+A one stop shop for the notable projects of ActualTurtle AKA Drew Tuttle (compilation work in progress). Mainly consists of personal projects as to avoid issuess with NDAs.
 
 ## Quick Links
 - [Destiny 2 Shuffler (inventory randomizer)](Destiny2Shuffler/)
